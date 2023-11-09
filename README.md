@@ -112,3 +112,5 @@ https://github.com/anikethmehta/LAB14/blob/main/code6.png
 Output:
 
 https://github.com/anikethmehta/LAB14/blob/main/output1.png
+
+https://github.com/anikethmehta/LAB14/blob/main/output2.png
