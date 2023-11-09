@@ -94,3 +94,7 @@ We keep doing this until the user says, "I'm done" (chooses "Exit").
 In a nutshell, our linked list is like a chain of containers, and we can add, remove, and see the numbers inside those containers based on what the user wants.
 
 ### ***Output Screenshot*** :
+
+Code:
+
+https://github.com/anikethmehta/LAB14/blob/main/code1.png
