@@ -98,3 +98,5 @@ In a nutshell, our linked list is like a chain of containers, and we can add, re
 Code:
 
 https://github.com/anikethmehta/LAB14/blob/main/code1.png
+
+https://github.com/anikethmehta/LAB14/blob/main/code2.png
