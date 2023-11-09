@@ -104,3 +104,5 @@ https://github.com/anikethmehta/LAB14/blob/main/code2.png
 https://github.com/anikethmehta/LAB14/blob/main/code3.png
 
 https://github.com/anikethmehta/LAB14/blob/main/code4.png
+
+https://github.com/anikethmehta/LAB14/blob/main/code5.png
